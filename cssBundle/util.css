@@ -11,7 +11,7 @@
 }
 
 .sec-ff {
-  font-family: "Ubuntu", sans-serif;
+  font-family: var(--ubuntu);
 }
 
 .text-just {

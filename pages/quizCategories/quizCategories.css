@@ -14,7 +14,7 @@
 .play-btn {
   padding: var(--spacing-3xs) var(--spacing-2xs);
   color: var(--prim-col);
-  font-family: "Ubuntu", sans-serif;
+  font-family: var(--ubuntu);
 }
 
 .play-btn:hover {
