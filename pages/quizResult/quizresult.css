@@ -1,0 +1,7 @@
+.true {
+  background-color: rgb(143, 241, 143);
+}
+
+.chosen {
+  background-color: var(--gray-lighter);
+}
