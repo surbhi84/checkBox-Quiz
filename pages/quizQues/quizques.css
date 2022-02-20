@@ -1,1 +1,10 @@
+.option {
+  padding: var(--spacing-3xs) var(--spacing-xs);
+  background-color: var(--prim-col-li);
+  cursor: pointer;
+}
 
+.pre-nex {
+  width: max-content;
+  padding: var(--spacing-3xs) var(--spacing-xs);
+}
