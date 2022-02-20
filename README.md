@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+<img width="152" alt="2022-02-20 (7)" src="https://user-images.githubusercontent.com/56334321/154848098-1aebbe25-57c6-4ab7-a216-b37153e121e5.png">
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -12,7 +14,9 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
+    <br />
     <a href="https://github.com/surbhi84/checkBox-Quiz"><strong>Explore the docs »</strong></a>
+    <br />
     <br />
     <a href="https://github.com/surbhi84/checkBox-Quiz">Open application</a>
   </p>
@@ -49,7 +53,7 @@ This is a quiz app that asks you questions on web developement- basic html, css 
 
 ## About The Project
 
-![Quiz Category Page](https://user-images.githubusercontent.com/56334321/154847869-ee42afab-aeae-426b-bb17-76debbf6e481.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/56334321/154848075-bcf97580-a21c-450e-80a6-34427d6e8634.png)
 
 
 CheckBox is web developers quiz app, where you get mini quizes with different levels of difficulties that consists of 5 questions in each level. Upon completion checkBox app displays you how you've done in the quiz. For now we have html, css and js themes for quizes and more will be added in the future.
@@ -132,8 +136,8 @@ Project Link: [https://github.com/surbhi84/checkBox-Quiz](https://github.com/sur
 
 A few of the websites that helped me build this project.
 
-- [Mdn web docs](https://developer.mozilla.org/en-US/)
-- [css tricks](https://css-tricks.com/)
-- [icon packs](https://www.iconpacks.net/)
+- [MDN Web docs](https://developer.mozilla.org/en-US/)
+- [Css Tricks](https://css-tricks.com/)
+- [Icon Packs](https://www.iconpacks.net/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
