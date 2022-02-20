@@ -5,3 +5,7 @@
 .text-dec-none {
   text-decoration: none;
 }
+
+.mg-top-auto {
+  margin-top: auto;
+}
