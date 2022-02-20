@@ -1,0 +1,21 @@
+.nav-head {
+  background-color: var(--shadow-bg);
+}
+
+.logo-icon {
+  height: 2rem;
+}
+
+.logo {
+  color: var(--prim-col);
+}
+
+.nav-link {
+  padding: var(--spacing-2xs);
+  border-radius: 0.2rem;
+}
+
+.nav-link:hover {
+  background-color: var(--prim-col-li);
+  transition: background-color 1s;
+}
