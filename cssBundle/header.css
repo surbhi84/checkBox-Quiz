@@ -1,0 +1,11 @@
+.nav-head {
+  background-color: var(--shadow-bg);
+}
+
+.logo-icon {
+  height: 2rem;
+}
+
+.logo {
+  color: var(--prim-col);
+}
