@@ -5,6 +5,7 @@
 @import url(/cssBundle/footer.css);
 @import url(/cssBundle/home.css);
 @import url(/pages/quizCategories/quizCategories.css);
+@import url(/pages/quizQues/quizques.css);
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Ubuntu:wght@400&display=swap");
 body {

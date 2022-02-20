@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Surbhi Kukreti" />
+    <meta
+      name="description"
+      content="checkBox Quiz Result page, quiz app on web developement "
+    />
+    <link rel="stylesheet" href="/cssBundle/checkBox.css" />
+    <link rel="stylesheet" href="/pages/quizResult/quizresult.css" />
+    <title>checkBox-Quiz Result</title>
+  </head>
+  <body>
+    <!-- header -->
+    <header class="nav-head">
+      <!-- logo -->
+      <div class="flex-row flex-center">
+        <img src="/media/icon/box.svg" alt="Profile icon" class="logo-icon" />
+
+        <a href="/index.html" class="text-dec-none">
+          <div class="flex-row">
+            <h1 class="marg-un logo">check</h1>
+            <h1 class="marg-un logo1">Box</h1>
+          </div>
+        </a>
+      </div>
+      <!-- end of logo -->
+
+      <ul class="nav-links">
+        <li>
+          <a class="nav-link" href="/pages/quizCategories/"> Categories</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#"> High-Scores </a>
+        </li>
+
+        <!-- Profile  -->
+        <li>
+          <a class="nav-link outline-btn" href="#">
+            <img
+              src="/media/icon/user.svg"
+              alt="Profile icon"
+              class="nav-icon"
+            />
+          </a>
+        </li>
+      </ul>
+    </header>
+    <!-- end of header -->
+
+    <!-- start of main -->
+    <main class="result-main flex-center flex-col">
+      <h2>YOUR SCORE: 0/50</h2>
+      <!-- question div -->
+      <div class="flex-col flex-center pd-m">
+        <ul class="pd-l-none marg-un">
+          <!-- question-1 -->
+          <li class="q1 flex-col flex-center gap-xl ls-none">
+            <h3 class="marg-un">Q1. What is the full form of html ?</h3>
+            <!-- options for question-1 -->
+            <ul class="flex-col pd-l-none gap-md">
+              <li class="option chosen outline-btn ls-none">
+                Hyper Text Manual Language
+              </li>
+              <li class="option true outline-btn ls-none">
+                Hyper Text Markup Language
+              </li>
+              <li class="option outline-btn ls-none">
+                Handler Table Main Language
+              </li>
+              <li class="option outline-btn ls-none">
+                Hyper Theta Meta Language
+              </li>
+            </ul>
+            <!-- end of options for question-1 -->
+
+            <!-- next & prev btn q1 -->
+            <div class="flex-center gap-xl">
+              <button class="pre-nex outline-btn play-btn">< prev</button>
+              <button class="pre-nex outline-btn play-btn">Next ></button>
+            </div>
+            <!--end of next & prev btn q1 -->
+          </li>
+          <!-- end of question-1 -->
+        </ul>
+      </div>
+      <!-- end of question div -->
+    </main>
+    <!-- end of main -->
+
+    <!-- start of footer -->
+    <footer class="flex-center flex-col mg-top-auto">
+      <!-- icon-links -->
+      <div>
+        Keep in touch
+        <ul class="footer-list flex-center mg-xs">
+          <li class="footer-link">
+            <a
+              href="https://www.linkedin.com/in/surbhi-kukreti-a91b0b163"
+              target="blank"
+              class="footer-icon"
+            >
+              <i class="fab fa-linkedin-in"> </i
+            ></a>
+          </li>
+          <li class="footer-link">
+            <a
+              href="https://github.com/surbhi84"
+              target="blank"
+              class="footer-icon"
+              ><i class="fab fa-github"></i
+            ></a>
+          </li>
+          <li class="footer-link">
+            <a
+              href="https://twitter.com/Surbhikukreti89"
+              target="blank"
+              class="footer-icon"
+              ><i class="fab fa-twitter"></i
+            ></a>
+          </li>
+          <li class="footer-link">
+            <a
+              href="https://medium.com/@surbhikukreti"
+              target="blank"
+              class="footer-icon"
+            >
+              <i class="fab fa-medium-m"></i
+            ></a>
+          </li>
+        </ul>
+      </div>
+      <!-- end of icon-links -->
+
+      <div class="flex-row">
+        <p class="marg-un">© 2022 checkBox made by Surbhi Kukreti</p>
+      </div>
+    </footer>
+    <!-- end of footer -->
+  </body>
+</html>

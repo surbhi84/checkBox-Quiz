@@ -1,0 +1,11 @@
+.true {
+  background-color: var(--green-li);
+}
+
+.chosen {
+  background-color: var(--gray-lighter);
+}
+
+.result-main {
+  margin-bottom: var(--spacing-xl);
+}
