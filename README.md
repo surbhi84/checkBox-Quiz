@@ -1,12 +1,12 @@
 <div id="top"></div>
 
-<img width="152" alt="2022-02-20 (7)" src="https://user-images.githubusercontent.com/56334321/154848098-1aebbe25-57c6-4ab7-a216-b37153e121e5.png">
+
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/surbhi84/checkBox-Quiz">
-    <img src="" alt="Logo" width="80" height="80">
+    <img width="152" alt="2022-02-20 (7)" src="https://user-images.githubusercontent.com/56334321/154848098-1aebbe25-57c6-4ab7-a216-b37153e121e5.png">
   </a>
 
   <h3 align="center">checkBox-Quiz</h3>
