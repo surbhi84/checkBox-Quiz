@@ -125,7 +125,7 @@ Don't forget to give the project a star! Thanks!
 
 ## Contact
 
-Surbhi kukreti:[linkedinID](https://www.linkedin.com/in/surbhi-kukreti-a91b0b163)
+Surbhi kukreti: [linkedinID](https://www.linkedin.com/in/surbhi-kukreti-a91b0b163)
 
 Project Link: [https://github.com/surbhi84/checkBox-Quiz](https://github.com/surbhi84/checkBox-Quiz)
 
