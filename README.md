@@ -9,10 +9,10 @@
     <img width="152" alt="2022-02-20 (7)" src="https://user-images.githubusercontent.com/56334321/154848098-1aebbe25-57c6-4ab7-a216-b37153e121e5.png">
   </a>
 
-  <h3 align="center">checkBox-Quiz</h3>
+  <h1 align="center">checkBox-Quiz</h1>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
+  <p align="center">  
+  This is a quiz app that asks you questions on web developement- basic html, css and js.
     <br />
     <br />
     <a href="https://github.com/surbhi84/checkBox-Quiz"><strong>Explore the docs »</strong></a>
@@ -22,8 +22,6 @@
   </p>
 </div>
 
-# checkBox-Quiz
-This is a quiz app that asks you questions on web developement- basic html, css and js.
 
 <!-- TABLE OF CONTENTS -->
 <details>
