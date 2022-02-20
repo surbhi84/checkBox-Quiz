@@ -1,5 +1,5 @@
 .true {
-  background-color: rgb(143, 241, 143);
+  background-color: var(--green-li);
 }
 
 .chosen {
