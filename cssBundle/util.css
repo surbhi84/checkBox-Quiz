@@ -29,3 +29,7 @@
 .spc-btwn {
   justify-content: space-between;
 }
+
+.col-primary {
+  color: var(--prim-col);
+}
