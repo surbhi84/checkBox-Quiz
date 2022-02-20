@@ -9,3 +9,11 @@
 .mg-top-auto {
   margin-top: auto;
 }
+
+.sec-ff {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.text-just {
+  text-align: justify;
+}
