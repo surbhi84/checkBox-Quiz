@@ -10,6 +10,10 @@
   color: var(--prim-col);
 }
 
+.logo1 {
+  color: var(--blk);
+}
+
 .nav-link {
   padding: var(--spacing-2xs);
   border-radius: 0.2rem;

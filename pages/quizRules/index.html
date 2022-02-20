@@ -5,12 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="author" content="Surbhi Kukreti" />
-    <meta
-      name="description"
-      content="checkBox Home page a quiz app on web developement"
-    />
+    <meta name="description" content="checkBox Quiz Rules Page" />
     <link rel="stylesheet" href="/cssBundle/checkBox.css" />
-    <title>checkBox</title>
+    <link rel="stylesheet" href="/pages/quizRules/quizrules.css" />
+    <title>checkBox-Quiz Rules</title>
   </head>
   <body>
     <!-- header -->
@@ -30,7 +28,7 @@
 
       <ul class="nav-links">
         <li>
-          <a class="nav-link" href="#"> Categories</a>
+          <a class="nav-link" href="/pages/quizRules/"> Categories</a>
         </li>
         <li>
           <a class="nav-link" href="#"> High-Scores </a>
@@ -50,24 +48,39 @@
     </header>
     <!-- end of header -->
 
-    <!-- start of main -->
-    <main class="main-cont flex-center">
-      <div class="flex-col flex-center width80">
-        <h3 class="mg-sm">Welcome to checkBox,</h3>
-        <h3 class="marg-un">
-          A quiz app specifically designed for developers to have fun and learn
-          altogether.
-        </h3>
-
-        <h2>Are you ready?</h2>
-        <h1>Then lets begin!</h1>
+    <!-- start of main content -->
+    <main>
+      <!-- Rules div -->
+      <div class="rules-div flex-col flex-center pd-m">
+        <h1 class="heading marg-un">checkBox Rules</h1>
+        <!-- Rules -->
+        <ol>
+          <li class="mg-xs">
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem,sdsds
+            voluptas?
+          </li>
+          <li class="mg-xs">
+            Lorem ipsum dolor sit, amet consectetur
+            adipisfdddddddddddddddddsicing elit. Rem, voluptas?
+          </li>
+          <li class="mg-xs">
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem,
+            voluptas?
+          </li>
+        </ol>
+        <label>
+          <input type="checkbox" />
+          I agree to checkBox Rules.
+        </label>
+        <!-- end of rules -->
         <a
-          class="outline-btn cta-btn med-text text-dec-none"
-          href="/pages/quizCategories/"
+          href="/pages/quizQues/"
+          class="play-btn outline-btn text-dec-none med-text mg-s"
         >
-          Choose Category
-        </a>
+          Lets go!</a
+        >
       </div>
+      <!-- end of rules div -->
     </main>
     <!-- end of main -->
 
