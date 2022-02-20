@@ -5,3 +5,7 @@
 .chosen {
   background-color: var(--gray-lighter);
 }
+
+.result-main {
+  margin-bottom: var(--spacing-xl);
+}
