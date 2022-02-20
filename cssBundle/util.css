@@ -17,3 +17,15 @@
 .text-just {
   text-align: justify;
 }
+
+.ls-none {
+  list-style: none;
+}
+
+.pd-l-none {
+  padding-left: unset;
+}
+
+.spc-btwn {
+  justify-content: space-between;
+}
