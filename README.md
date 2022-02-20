@@ -14,9 +14,7 @@
     <br />
     <a href="https://github.com/surbhi84/checkBox-Quiz"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
     <a href="https://github.com/surbhi84/checkBox-Quiz">Open application</a>
-
   </p>
 </div>
 
@@ -51,7 +49,8 @@ This is a quiz app that asks you questions on web developement- basic html, css 
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Quiz Category Page](https://user-images.githubusercontent.com/56334321/154847869-ee42afab-aeae-426b-bb17-76debbf6e481.png)
+
 
 CheckBox is web developers quiz app, where you get mini quizes with different levels of difficulties that consists of 5 questions in each level. Upon completion checkBox app displays you how you've done in the quiz. For now we have html, css and js themes for quizes and more will be added in the future.
 
