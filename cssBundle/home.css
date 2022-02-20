@@ -1,0 +1,11 @@
+.cta-btn {
+  padding: var(--spacing-xs);
+  color: var(--prim-col);
+  font-family: "Ubuntu", sans-serif;
+}
+
+.cta-btn:hover {
+  transform: translateX(2%);
+  box-shadow: var(--shadow-subtle);
+  transition: transform 0.5s;
+}

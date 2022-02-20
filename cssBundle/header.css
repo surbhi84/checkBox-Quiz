@@ -17,4 +17,5 @@
 
 .nav-link:hover {
   background-color: var(--prim-col-li);
+  transition: background-color 1s;
 }
