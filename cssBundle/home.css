@@ -1,5 +1,5 @@
 .cta-btn {
-  padding: var(--spacing-xs);
+  padding: var(--spacing-xs) var(--spacing-sm);
   color: var(--prim-col);
   font-family: "Ubuntu", sans-serif;
 }

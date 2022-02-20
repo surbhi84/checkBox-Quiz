@@ -4,7 +4,7 @@
 @import url(/cssBundle/header.css);
 @import url(/cssBundle/footer.css);
 @import url(/cssBundle/home.css);
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Ubuntu:wght@400&display=swap");
 body {
   min-height: 100vh;
