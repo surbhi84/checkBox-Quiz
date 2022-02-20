@@ -59,7 +59,7 @@
 
 CheckBox is web developers quiz app, where you get mini quizes with different levels of difficulties that consists of 5 questions in each level. Upon completion checkBox app displays you how you've done in the quiz. For now we have html, css and js themes for quizes and more will be added in the future.
 
-Why checkBox? :
+Why checkBox? 
 
 - It helps you summarise all the key points to remember in your web developement journey.
 - Different levels of difficulties enables variety of people in their respective journeys to come up and play.
@@ -125,7 +125,7 @@ Don't forget to give the project a star! Thanks!
 
 ## Contact
 
-Surbhi kukreti - subuhikukreti@gmail.com
+Surbhi kukreti:[linkedinID](https://www.linkedin.com/in/surbhi-kukreti-a91b0b163)
 
 Project Link: [https://github.com/surbhi84/checkBox-Quiz](https://github.com/surbhi84/checkBox-Quiz)
 
