@@ -18,7 +18,7 @@
     <a href="https://github.com/surbhi84/checkBox-Quiz"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/surbhi84/checkBox-Quiz">Open application</a>
+    <a href="https://checkboxquiz.netlify.app">Open application</a>
     <br />
     <br />
     
