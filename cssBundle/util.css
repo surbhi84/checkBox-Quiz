@@ -6,6 +6,10 @@
   text-decoration: none;
 }
 
+.mg-xl {
+  margin-top: var(--spacing-3xl);
+}
+
 .mg-top-auto {
   margin-top: auto;
 }

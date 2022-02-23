@@ -10,6 +10,11 @@
   color: var(--blk);
 }
 
+.nav-head {
+  scrollbar-width: none;
+  box-shadow: var(--shadow-subtle);
+}
+
 .nav-link {
   padding: var(--spacing-2xs);
   border-radius: 0.2rem;
